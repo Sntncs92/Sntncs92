@@ -1,14 +1,14 @@
-# Daniel Frases Muñoz 👋🔭
+# Daniel Frases Muñoz 👋💻
 
 ## (En construcción) 🏗️🏗️🏗️
-
-![Imagen de Portada](recurso/giphy.gif)
 
 ### Todavía no tengo proyectos para enseñarte, pero mira como controlo los H
 
 Actualmente estudiando DAM... pero ya verás.
 
 ![Imagen de Portada](recurso/hackerman.gif)
+
+Graduado en Publicidad y RRPP 🎓
 
 
 <!--
