@@ -1,6 +1,15 @@
-### Hi there 👋
+#Daniel Frases Muñoz 👋🔭
+
+##(En construcción)
 
 ![Imagen de Portada](recurso/giphy.gif)
+
+###Todavía no tengo proyectos para enseñarte, pero mira como controlo los H
+
+Actualmente estudiando DAM... pero ya verás.
+
+![Imagen de Portada](recurso/giphy.gif)
+
 
 <!--
 **Sntncs92/Sntncs92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
