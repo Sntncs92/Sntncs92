@@ -6,7 +6,7 @@
 
 Actualmente estudiando DAM... pero ya verás.
 
-![Imagen de Portada](recurso/hackerman.gif)
+![Imagen de Portada](recurso/giphy.gif)
 
 Graduado en Publicidad y RRPP 🎓
 
