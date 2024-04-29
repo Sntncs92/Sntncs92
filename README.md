@@ -19,17 +19,17 @@ Para aprender a utilizar correctamente he estado probando como funciona la sincr
 ####1. Clonar el repositorio.
 Para poder trastear el proyecto desde tu ordenador es necesario que clones o descargues la parte a manipular del proyecto en tu propio ordenador.
 
-![Imagen de Portada]()
+![Imagen de Portada](recurso/clonacion.jpg)
 
 ####2. GitHub lo hace todo por tí.
 En cuanto realizas cualquier cambio en local te avisa de lo modificado para que puedas sincronizar los cambios con el repositorio remoto.
 
-![Imagen de Portada]()
+![Imagen de Portada](recurso/warning.gif)
 
 ####3. Aplicar los cambios.
 Una vez comprobados que las modificaciones son correctas solo queda incorporarlas al proyecto.
 
-![Imagen de Portada]()
+![Imagen de Portada](recurso/cambio.jpg)
 
 <!--
 **Sntncs92/Sntncs92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
